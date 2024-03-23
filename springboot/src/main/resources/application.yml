@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/12306? characterEncoding=utf8 & useSSL=false & serverTimezone=UTC & rewriteBatchedStatements=true
+    username: root
+    password: 1314524ynu
+    driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8181
